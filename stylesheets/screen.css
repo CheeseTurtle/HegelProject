@@ -139,7 +139,7 @@ a#forkme_banner:hover {
 header {
   position: relative;
   z-index: 2;
-  margin: 0 auto;
+  margin: 0 auto 125px auto;
   max-width: 600px;
   top: 38px;
 }
